@@ -1,8 +1,13 @@
+.con-title {
+  display: flex;
+}
+
 .title {
   font-size: 23px;
   font-weight: 700;
-  display: flex;
-  margin-top: 20px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .daily-item {
